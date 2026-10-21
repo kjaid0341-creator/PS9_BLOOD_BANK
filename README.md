@@ -4,6 +4,12 @@ A comprehensive MERN stack web application for managing blood donors, donor elig
 
 ---
 
+## 🌐 Live Deployment Links
+- **Backend API (Render)**: [https://ps9-blood-bank.onrender.com](https://ps9-blood-bank.onrender.com) (API Base: [https://ps9-blood-bank.onrender.com/api](https://ps9-blood-bank.onrender.com/api))
+- **GitHub Repository**: [https://github.com/kjaid0341-creator/PS9_BLOOD_BANK](https://github.com/kjaid0341-creator/PS9_BLOOD_BANK)
+
+---
+
 ## 🌟 Key Features
 
 1. **Authentication & Role-Based Access Control**:
@@ -174,5 +180,5 @@ npm run dev
 1. In Vercel, import the repository and set Root Directory to `frontend`.
 2. Framework Preset: `Vite`.
 3. Configure Environment Variables:
-   - `VITE_API_URL`: `https://your-render-service.onrender.com/api`
+   - `VITE_API_URL`: `https://ps9-blood-bank.onrender.com/api`
 4. Deploy and verify all routes and live connectivity.
